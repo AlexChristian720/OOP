@@ -1,0 +1,19 @@
+
+# An employee record
+name: Raagvendra Joshi
+job: Developer
+skill: Oracle
+employed: True
+foods:
+ - Apple
+ - Orange
+ - Strawberry
+ - Mango
+languages:
+ Oracle: Elite
+ power_builder: Elite
+ Full Stack Developer: Lame
+education:
+ 4 GCSEs
+ 3 A-Levels
+ MCA in something called com
